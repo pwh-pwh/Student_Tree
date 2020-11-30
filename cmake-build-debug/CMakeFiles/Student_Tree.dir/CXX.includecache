@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Users/CH/CLionProjects/Student_Tree/BSTree.h
+iostream
+-
+BTreeNode.h
+D:/Users/CH/CLionProjects/Student_Tree/BTreeNode.h
+Student.h
+D:/Users/CH/CLionProjects/Student_Tree/Student.h
+
+D:/Users/CH/CLionProjects/Student_Tree/BTreeNode.h
+Student.h
+D:/Users/CH/CLionProjects/Student_Tree/Student.h
+
+D:/Users/CH/CLionProjects/Student_Tree/Date.h
+cstring
+-
+iostream
+-
+fstream
+-
+
+D:/Users/CH/CLionProjects/Student_Tree/Student.h
+iostream
+-
+cstring
+-
+Date.h
+D:/Users/CH/CLionProjects/Student_Tree/Date.h
+
+D:/Users/CH/CLionProjects/Student_Tree/main.cpp
+iostream
+-
+BSTree.h
+D:/Users/CH/CLionProjects/Student_Tree/BSTree.h
+
